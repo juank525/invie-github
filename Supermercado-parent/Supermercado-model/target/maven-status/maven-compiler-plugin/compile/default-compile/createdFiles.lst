@@ -1,0 +1,3 @@
+com\supermercado\model\impl\CategoriaImpl.class
+com\supermercado\model\dao\CategoriaDao.class
+com\supermercado\model\repository\CategoriaRepository.class

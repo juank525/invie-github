@@ -1,0 +1,12 @@
+com\supermercado\entities\ProductoPresentacionPK.class
+com\supermercado\entities\ImagenProducto.class
+com\supermercado\entities\Contacto.class
+com\supermercado\entities\Producto.class
+com\supermercado\entities\Categoria.class
+com\supermercado\entities\Pago.class
+com\supermercado\entities\DetalleFactura.class
+com\supermercado\entities\Presentacion.class
+com\supermercado\entities\Proveedore.class
+com\supermercado\entities\ProductoPresentacion.class
+com\supermercado\entities\Factura.class
+com\supermercado\entities\Cliente.class
