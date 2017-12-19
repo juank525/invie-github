@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512538447433_0" label="Supermercado-padre" name="Supermercado-padre"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512853695882_1" label="Supermercado-parent" name="Supermercado-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Supermercado-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servicio-Model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Supermercado-Entities" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Project.Supermercado" type="4"/>
+</workingSet>
+</workingSetManager>
