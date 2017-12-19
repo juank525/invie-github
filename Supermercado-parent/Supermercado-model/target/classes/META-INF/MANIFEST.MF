@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Servicio-Model
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: juan.pena
+Built-By: juancarlos
 Implementation-Vendor-Id: com.supermercado.services
-Build-Jdk: 1.8.0_121
+Build-Jdk: 1.8.0_51
 Implementation-URL: http://projects.spring.io/spring-boot/Supermercado
  -parent/Servicio-Model/
 Created-By: Maven Integration for Eclipse
